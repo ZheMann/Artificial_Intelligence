@@ -1,2 +1,2 @@
-# GradientDescent_LinearRegression
-A small example application of how to use GD for Linear Regression
+# Repository consists of scripts concerning AI and Machine Learning
+
